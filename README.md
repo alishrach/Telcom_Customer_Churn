@@ -75,3 +75,17 @@ Risk Analysis:
 Customers categorized into risk groups: Low risky, Risky, Non risky, and High risky.
 Total charges and count of customers in each risk category.
 Churn status: Churn category and churn risk.
+
+**Strategies for improving customer satisfaction and reducing churn**
+
+Address the factors that contribute to a high attrition rate among clients without dependents or partners.
+Implement targeted retention measures for clients who want paperless billing and have subscriptions to streaming and internet services.
+Enhancing the Customer Experience:
+
+Reduce churn by improving the experience for seniors and customers with dependents.
+To foster loyalty, offer incentives and better service packages to 'risky' and 'high-risky' consumers.
+
+Service Optimization:
+
+Review and optimize streaming and internet services to ensure client satisfaction.
+Concentrate on lowering churn among customers with numerous lines and phone services by improving service availability and support.
