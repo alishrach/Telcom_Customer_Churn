@@ -79,6 +79,14 @@ Churn status: Churn category and churn risk.
 **DASHBOARD**
 ![customer churn](https://github.com/alishrach/Telcom_Customer_Churn/assets/153117728/6d16b1d1-d3bf-4094-98b6-475a9c50e521)
 
+![cc 2](https://github.com/alishrach/Telcom_Customer_Churn/assets/153117728/803a2566-4e65-46b0-b9fe-ab27ef085512)
+
+![cc3](https://github.com/alishrach/Telcom_Customer_Churn/assets/153117728/8f23f6fd-faa9-46d2-8741-41ce4dac5ff2)
+
+![cc4](https://github.com/alishrach/Telcom_Customer_Churn/assets/153117728/83e88f0e-8c94-4348-84e1-895847a301a3)
+
+![cc5](https://github.com/alishrach/Telcom_Customer_Churn/assets/153117728/0b740af5-5b69-4510-b101-5104428bc4fd)
+
 
 **Strategies for improving customer satisfaction and reducing churn**
 
