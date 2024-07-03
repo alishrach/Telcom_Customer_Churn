@@ -20,11 +20,14 @@ Demographic info about customers – gender, age range, and if they have partner
 **Steps Followed**
 
 Load Data: Imported the dataset into Power BI Desktop.
+
 Data Profiling: Used Power Query Editor to check column distribution, quality, and profile for the entire dataset.
+
 Theme and Design: Applied a consistent theme to the report.
+
 Visual Filters: Added slicers for fields such as 'Customer ID' and 'Customer Gender'.
-Visualizations:
-Pie charts, bar charts, and card visuals to display key metrics.
+
+Visualizations:Pie charts, bar charts, and card visuals to display key metrics.
 Added visual level filters for precise analysis.
 
 **Key Visuals in the Dashboard**
