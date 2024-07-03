@@ -76,6 +76,10 @@ Customers categorized into risk groups: Low risky, Risky, Non risky, and High ri
 Total charges and count of customers in each risk category.
 Churn status: Churn category and churn risk.
 
+**DASHBOARD**
+![customer churn](https://github.com/alishrach/Telcom_Customer_Churn/assets/153117728/6d16b1d1-d3bf-4094-98b6-475a9c50e521)
+
+
 **Strategies for improving customer satisfaction and reducing churn**
 
 Address the factors that contribute to a high attrition rate among clients without dependents or partners.
